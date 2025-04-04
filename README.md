@@ -94,7 +94,7 @@ Esto levantará la interfaz React en `http://localhost:3000`.
 
 ## Interfaz Gráfica
 
-![Arquitectura del sistema]\(front/public/image.png)
+![Arquitectura del sistema](front/public/image.png)
 
 ## Consideraciones
 
