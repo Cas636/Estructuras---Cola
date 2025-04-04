@@ -102,3 +102,18 @@ Esto levantará la interfaz React en `http://localhost:3000`.
 - La actualización del frontend se realiza cada 100 ms.
 - La interfaz React filtra automáticamente los clientes que han finalizado.
 
+
+## Licencia
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform, and build upon the material.
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial — You may not use the material for commercial purposes.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+Read more about this license at CC BY-NC-SA 4.0.
